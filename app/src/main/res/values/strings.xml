@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TurnosApp</string>
+    <string name="titulo_app">Turnos Médicos</string>
+    <string name="subtitulo_app">Registrá tu próximo turno</string>
+    <string name="label_nombre">Nombre:</string>
+    <string name="label_especialidad">Especialidad:</string>
+    <string name="hint_nombre">Ej: Juan Pérez</string>
+    <string name="hint_especialidad">Ej: Cardiología</string>
+    <string name="boton_agregar">Agregar Turno</string>
+    <string name="label_lista">Turnos registrados:</string>
+    <string name="mensaje_vacio">Completá todos los campos</string>
 </resources>
