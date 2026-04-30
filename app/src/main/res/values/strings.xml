@@ -9,4 +9,5 @@
     <string name="boton_agregar">Agregar Turno</string>
     <string name="label_lista">Turnos registrados:</string>
     <string name="mensaje_vacio">Completá todos los campos</string>
+    <string name="app_descripcion">App para gestionar turnos médicos</string>
 </resources>
