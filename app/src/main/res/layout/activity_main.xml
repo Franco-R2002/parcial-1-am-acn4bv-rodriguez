@@ -36,6 +36,14 @@
             android:gravity="center"
             android:paddingBottom="16dp" />
 
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="380dp"
+            android:src="@drawable/imagen_medica"
+            android:scaleType="centerCrop"
+            android:contentDescription="Imagen médica"
+            android:paddingBottom="16dp" />
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
